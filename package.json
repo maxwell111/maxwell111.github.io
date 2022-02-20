@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --mode development --open"
+    "watch": "webpack-dev-server --mode development --open"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.16.11",
